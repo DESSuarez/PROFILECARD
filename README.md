@@ -31,7 +31,7 @@
 
 ### Links
 
-- Solution URL: [(https://your-solution-url.com)](https://github.com/DESSuarez/PROFILECARD)
+- Solution URL: [GIT HUB REPOSITORY](https://github.com/DESSuarez/PROFILECARD)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
