@@ -26,7 +26,7 @@
 
 [FINAL Desktop Design](https://github.com/DESSuarez/PROFILECARD/assets/130858702/c7eb2763-51ec-4a43-a687-b0eebb4d153c)
 
-[FINAL Mobile Design]![Final MOBILE Design](https://github.com/DESSuarez/PROFILECARD/assets/130858702/36b1072e-5eeb-420b-a860-afa6f848caa5)
+[Final MOBILE Design](https://github.com/DESSuarez/PROFILECARD/assets/130858702/36b1072e-5eeb-420b-a860-afa6f848caa5)
 
 
 ### Links
