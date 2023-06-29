@@ -32,7 +32,7 @@
 ### Links
 
 - Solution URL: [GIT HUB REPOSITORY](https://github.com/DESSuarez/PROFILECARD)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [LIVE SITE](https://profilecarddess.netlify.app/)
 
 ## My process
 
